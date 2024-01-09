@@ -1,0 +1,18 @@
+.odd_p {
+    background-color: pink;
+}
+
+#id_1 {
+    font-size:36px;
+    color: blue;
+}
+
+#id_2{
+    font-size: x-large;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+.odd_p.cooler{
+    font-size: 24px;
+}
